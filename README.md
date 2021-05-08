@@ -1,5 +1,7 @@
 # DS Vendas 🛒
 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE)
+
 ## Sobre o Projeto
 
 DS Vendas é uma aplicação full stack web construída durante a 3ª edição da **Semana Spring React** (#sds3), evento organizado pela [DevSuperior](https://devsuperior.com.br/).
